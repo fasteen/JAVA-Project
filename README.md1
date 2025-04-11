@@ -1,0 +1,21 @@
+# JAVA-Project
+
+A simple Java-based application built for learning and practicing core Java, servlets, JSP, and JDBC integration.
+
+## 🚀 Features
+
+- Java Servlet-based backend
+- JSP pages for dynamic content
+- JDBC connectivity for database operations
+- Folder structure follows standard Java web application conventions
+
+## 🛠 Technologies Used
+
+- Java
+- JSP & Servlets
+- JDBC
+- MySQL / Oracle (choose your DB)
+- Apache Tomcat (or any servlet container)
+
+## 📁 Project Structure
+
