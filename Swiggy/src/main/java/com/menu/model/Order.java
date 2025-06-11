@@ -2,6 +2,7 @@ package com.menu.model;
 
 import java.sql.Timestamp;
 import java.util.UUID;
+import java.util.Scanner;
 
 public class Order {
     private String id;
